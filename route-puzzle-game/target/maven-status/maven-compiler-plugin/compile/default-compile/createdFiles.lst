@@ -1,0 +1,12 @@
+it\michelepierri\rpg\game\RoutePuzzleGame.class
+it\michelepierri\rpg\dto\RoomsMap.class
+it\michelepierri\rpg\dto\Move.class
+it\michelepierri\rpg\launcher\StartGame.class
+it\michelepierri\rpg\input\CmdLineInterface.class
+it\michelepierri\rpg\game\PuzzleGameHelper.class
+it\michelepierri\rpg\dto\Item.class
+it\michelepierri\rpg\input\JsonMapLoader.class
+it\michelepierri\rpg\dto\JsonItem.class
+it\michelepierri\rpg\dto\Room.class
+it\michelepierri\rpg\exception\GameException.class
+it\michelepierri\rpg\dto\JsonRoom.class
